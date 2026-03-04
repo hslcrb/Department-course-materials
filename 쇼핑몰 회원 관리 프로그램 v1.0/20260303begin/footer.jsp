@@ -10,7 +10,7 @@
 
 <footer style="background-color:gray; text-align:center; position:fixed; bottom:0; width:100%">
 	<h3>
-	HRDKOREA Copyrightⓒ 2016 All rights reserved. Human Resource
+	HRDKOREA Copyrightⓒ 2016 All rights reserved. Human Resource Development Korea
 	</h3>
 </footer>
 
