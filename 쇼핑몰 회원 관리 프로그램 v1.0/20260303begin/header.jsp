@@ -14,7 +14,7 @@
 	<a href="index.jsp">회원등록</a>&emsp;&emsp;&emsp;
 	<a href="index.jsp">회원목록조회/수정</a>&emsp;&emsp;&emsp;
 	<a href="index.jsp">회원매출조회</a>&emsp;&emsp;&emsp;
-	홈으로
+	<a href="index.jsp">홈으로</a>
 </h3>
 </header>
 
